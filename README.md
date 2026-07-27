@@ -1,3 +1,7 @@
+<img width="1584" height="396" alt="3" src="https://github.com/user-attachments/assets/34410c20-901e-42d5-8c28-06b925c6d828" />
+
+
+
 # Wiola-360M
 
 Wiola-360M is a 360 million parameter causal language model based on the **Wiola Architecture**, designed for efficient language modeling while maintaining strong performance at a relatively small parameter count. The model is implemented in PyTorch and follows the Hugging Face Transformers interface.
